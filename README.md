@@ -1,6 +1,6 @@
-###👋 Bienvenido a mi portfolio
+##👋 Bienvenido a mi portfolio
 -------------------
-## hola mundo 👋 ! Soy Paulo Bazan Bazalar Desarrollador Junior FullStack
+## Hola Mundo👋! Soy Paulo Bazan Bazalar Desarrollador Junior FullStack
 
 Entusiasta por la tecnología y el diseño me ha llevado a sumergirme en el emocionante mundo del desarrollo web. 
 Con una trayectoria previa en administración de sistemas mi camino ha cambiado en 2023 al finalizar un bootcamp en desarrollo web The Bridge , encontrando mi pasión por el desarrollo 🚀.
