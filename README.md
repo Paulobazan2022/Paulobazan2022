@@ -1,6 +1,6 @@
 ### Hola Mundo!👋 Bienvenido a mi portfolio
 -------------------
-Soy Paulo Bazan Bazalar Desarrollador Junior FullStack.
+##Soy Paulo Bazan Bazalar Desarrollador Junior FullStack.
 
 
 <!--
