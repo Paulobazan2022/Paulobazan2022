@@ -1,4 +1,4 @@
-👋 Bienvenido a mi portfolio
+👋 Bienvenido a mi GitHub
 -------------------
 ## Hola Mundo👋! Soy Paulo Bazan Bazalar Desarrollador Junior FullStack
 
